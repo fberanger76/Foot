@@ -1,0 +1,36 @@
+.gray {
+    color: #ababab;
+}
+
+.green {
+    color: #21cd36;
+}
+
+.red {
+    color: red;
+}
+
+.color {
+    color: #091c3e;
+}
+
+.bleu {
+    background-color: #091c3e;
+    color: white;
+}
+
+.gras {
+    font-weight: bold;
+}
+
+.gris {
+    background-color: #b3b3b3;
+}
+
+.grisfonce {
+    background-color: #808080;
+}
+
+.position {
+vertical-align: middle;
+}
